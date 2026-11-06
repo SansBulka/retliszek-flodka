@@ -1,24 +1,24 @@
-# Pokojoweczka ale mi sie udało
+# Pokojoweczka ale nie wyszlo
 
-# Zasada pierwsza
+# hipoteza pierwsza
 
-syf syf syf 
+porządek porządek porządek 
 
 
 retlih floda
 
-## Zasada druga
+## Opcja druga
 
-System OKO bad
+System OKO GREAT
 
-### Zasada trzecia
+### Teoria trzecia
 
-Co tu robi Frąsiak i Tomek Skyrim
+Czemu tu nie ma Frąsiak i Tomek Skyrim
 
-#### Zasada Czwarta
+#### Możliwosc Czwarta
 
-Jak się włącza:
+Jak się wyłącza:
 
 npm run dev ; npm start
 
-Ta linia jest mi bardzo potrzebna żeby zrobić pull request
+Ta linia jest mi zbędna 
